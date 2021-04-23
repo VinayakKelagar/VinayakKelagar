@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about Developing 
 - 📫 How to reach me:
           Mail me vinayakkelagar7@gmail.com
+          Twitter @VinaykKelagar
+          https://twitter.com/vkelagar
+
+          Medium @VinaykKelagar
+          https://medium.com/@vinayakkelagar7
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
