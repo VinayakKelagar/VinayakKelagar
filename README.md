@@ -7,11 +7,13 @@
   <img align="left" alt="Vinayak's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@vinayakkelagar7">
-  <img align="left" alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Vinayak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://cybervk.blogspot.com/">
-  <img align="left" alt="Ashutosh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="Vinayak's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
+
+&nbsp;
 
 - 🔭 I’m currently working on Penetration Testing And Developing
 - 🌱 I’m currently learning Android Studio Backend Programming
@@ -20,11 +22,6 @@
 - 💬 Ask me about Developing 
 - 📫 How to reach me.., mail me ==>> vinayakkelagar7@gmail.com
 
-          
-
-
-
-
+&nbsp;
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=VinayakKelagar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
-
