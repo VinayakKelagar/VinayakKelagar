@@ -7,8 +7,6 @@
 - 💬 Ask me about Developing 
 - 📫 How to reach me:
            Mail me vinayakkelagar7@gmail.com
-           Twitter @VinaykKelagar
-           https://twitter.com/vkelagar
-           Medium @VinaykKelagar
-           https://medium.com/@vinayakkelagar7
+           Twitter [@VinaykKelagar](https://twitter.com/vkelagar)
+           Medium [@VinaykKelagar](https://medium.com/@vinayakkelagar7)
 
