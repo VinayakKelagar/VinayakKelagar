@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
           Medium @VinaykKelagar
           https://medium.com/@vinayakkelagar7
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
