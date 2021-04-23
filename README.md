@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on Penetration Testing Team
 - 🤔 I’m looking for help with Android Studio Backend
 - 💬 Ask me about Developing 
-- 📫 How to reach me:
-           Mail me ==>> vinayakkelagar7@gmail.com
+- 📫 How to reach me.., mail me ==>> vinayakkelagar7@gmail.com
+
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshjv661&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
           
-<img src="https://github-readme-stats.vercel.app/api?username=VinayakKelagar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" >
+
+
