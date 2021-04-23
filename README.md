@@ -6,10 +6,9 @@
 - 🤔 I’m looking for help with Android Studio Backend
 - 💬 Ask me about Developing 
 - 📫 How to reach me:
-          Mail me vinayakkelagar7@gmail.com
-          Twitter @VinaykKelagar
-          https://twitter.com/vkelagar
+           Mail me vinayakkelagar7@gmail.com
+           Twitter @VinaykKelagar
+           https://twitter.com/vkelagar
+           Medium @VinaykKelagar
+           https://medium.com/@vinayakkelagar7
 
-          Medium @VinaykKelagar
-          https://medium.com/@vinayakkelagar7
--->
