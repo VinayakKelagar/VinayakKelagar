@@ -13,6 +13,8 @@
   <img align="left" alt="Vinayak's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
+&nbsp;
+
 - 🔭 I’m currently working on Penetration Testing And Developing
 - 🌱 I’m currently learning Android Studio Backend Programming
 - 👯 I’m looking to collaborate on Penetration Testing Team
