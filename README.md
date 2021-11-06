@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayakKelagar&label=Profile%20views&color=0e75b6&style=flat" alt="Vinayakkelagar" /> </p>
 
 
-
+<img align="right" alt="GIF" width="512" height="384" src="Images/portfolio.gif" />
 
 - 👀 I’m interested in **Web Development** and **Android Development**
 - 🌱 I’m currently learning **Android Backend**
